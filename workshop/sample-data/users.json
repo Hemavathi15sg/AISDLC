@@ -1,0 +1,57 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440001",
+    "email": "alice.johnson@itms.dev",
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "department": "Engineering",
+    "role": "PROJECT_MANAGER",
+    "isActive": true,
+    "createdAt": "2026-01-15T08:00:00.000Z",
+    "updatedAt": "2026-01-15T08:00:00.000Z"
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440002",
+    "email": "bob.smith@itms.dev",
+    "firstName": "Bob",
+    "lastName": "Smith",
+    "department": "Engineering",
+    "role": "TEAM_LEAD",
+    "isActive": true,
+    "createdAt": "2026-01-15T08:05:00.000Z",
+    "updatedAt": "2026-01-15T08:05:00.000Z"
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440003",
+    "email": "carol.white@itms.dev",
+    "firstName": "Carol",
+    "lastName": "White",
+    "department": "Engineering",
+    "role": "DEVELOPER",
+    "isActive": true,
+    "createdAt": "2026-01-15T08:10:00.000Z",
+    "updatedAt": "2026-01-15T08:10:00.000Z"
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440004",
+    "email": "david.lee@itms.dev",
+    "firstName": "David",
+    "lastName": "Lee",
+    "department": "Engineering",
+    "role": "DEVELOPER",
+    "isActive": true,
+    "createdAt": "2026-01-15T08:15:00.000Z",
+    "updatedAt": "2026-01-15T08:15:00.000Z"
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440005",
+    "email": "emma.davis@itms.dev",
+    "firstName": "Emma",
+    "lastName": "Davis",
+    "department": "QA",
+    "role": "QA_ENGINEER",
+    "isActive": true,
+    "createdAt": "2026-01-15T08:20:00.000Z",
+    "updatedAt": "2026-01-15T08:20:00.000Z"
+  }
+]

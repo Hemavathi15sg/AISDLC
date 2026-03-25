@@ -1,0 +1,56 @@
+[
+  {
+    "id": "880e8400-e29b-41d4-a716-446655440001",
+    "taskId": "660e8400-e29b-41d4-a716-446655440002",
+    "previousStatus": "TO_DO",
+    "newStatus": "IN_PROGRESS",
+    "changedBy": "550e8400-e29b-41d4-a716-446655440003",
+    "changedAt": "2026-02-03T09:00:00.000Z",
+    "note": "Starting schema design."
+  },
+  {
+    "id": "880e8400-e29b-41d4-a716-446655440002",
+    "taskId": "660e8400-e29b-41d4-a716-446655440002",
+    "previousStatus": "IN_PROGRESS",
+    "newStatus": "COMPLETED",
+    "changedBy": "550e8400-e29b-41d4-a716-446655440003",
+    "changedAt": "2026-02-10T17:30:00.000Z",
+    "note": "Migrations reviewed and approved."
+  },
+  {
+    "id": "880e8400-e29b-41d4-a716-446655440003",
+    "taskId": "660e8400-e29b-41d4-a716-446655440003",
+    "previousStatus": "TO_DO",
+    "newStatus": "IN_PROGRESS",
+    "changedBy": "550e8400-e29b-41d4-a716-446655440003",
+    "changedAt": "2026-02-11T10:00:00.000Z",
+    "note": "Started auth implementation."
+  },
+  {
+    "id": "880e8400-e29b-41d4-a716-446655440004",
+    "taskId": "660e8400-e29b-41d4-a716-446655440003",
+    "previousStatus": "IN_PROGRESS",
+    "newStatus": "COMPLETED",
+    "changedBy": "550e8400-e29b-41d4-a716-446655440003",
+    "changedAt": "2026-02-20T16:00:00.000Z",
+    "note": "All auth tests passing."
+  },
+  {
+    "id": "880e8400-e29b-41d4-a716-446655440005",
+    "taskId": "660e8400-e29b-41d4-a716-446655440004",
+    "previousStatus": "TO_DO",
+    "newStatus": "IN_PROGRESS",
+    "changedBy": "550e8400-e29b-41d4-a716-446655440004",
+    "changedAt": "2026-02-25T09:00:00.000Z",
+    "note": "CRUD endpoints in progress."
+  },
+  {
+    "id": "880e8400-e29b-41d4-a716-446655440006",
+    "taskId": "660e8400-e29b-41d4-a716-446655440005",
+    "previousStatus": "TO_DO",
+    "newStatus": "BLOCKED",
+    "changedBy": "550e8400-e29b-41d4-a716-446655440004",
+    "changedAt": "2026-02-26T08:00:00.000Z",
+    "note": "Blocked: 'Build Task CRUD Endpoints' must complete first."
+  }
+]
